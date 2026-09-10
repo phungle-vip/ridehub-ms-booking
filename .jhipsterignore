@@ -1,0 +1,7 @@
+# JHipster ignore pattern for ms_booking
+# Khai báo các file tùy biến tại đây để JHipster không ghi đè khi re-generate JDL.
+# Chi tiết xem tại: docs/guides/JDL_DEVELOPMENT_GUIDE.md
+
+# Ví dụ nếu bạn sửa logic trong Service hoặc Resource CRUD:
+# src/main/java/com/ridehub/booking/service/impl/BookingServiceImpl.java
+# src/main/java/com/ridehub/booking/web/rest/BookingResource.java
